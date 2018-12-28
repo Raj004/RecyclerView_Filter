@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView_SearchFilter</string>
+    <string name="action_search">Search movie..</string>
+</resources>
